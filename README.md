@@ -45,6 +45,7 @@ The dataset includes information such as:
 - Restaurants with ratings > 4 are mostly located in metropolitan areas
 - Online delivery is more prevalent in urban regions
 - Some cuisines correlate with higher average ratings
+- collaborator added
 
 ---
 
